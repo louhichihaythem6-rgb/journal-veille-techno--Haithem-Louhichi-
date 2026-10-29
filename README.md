@@ -10,7 +10,6 @@
 - Comprendre la différence entre les différents notions comme le LLM \ le ML et l'hallucination \ les biais
 
 
-# Journal de bord — Veille Technologique
 ## Semaine 2
 ### Ce que j'ai fait
 -Réaliser les activités du Workshop 2 : L'art du prompt ([Portfolio Prompt.docx.pdf](https://github.com/user-attachments/files/34156259/Portfolio.Prompt.docx.pdf)
