@@ -17,6 +17,7 @@
 )
 -Tester différents prompts avec une IA générative
 -Améliorer les prompts pour obtenir de meilleures réponses
+-Répondre au QCM
 
 ### Ce que j'ai appris
 -J'ai appris qu'un prompt précis et bien détaillé permet d'obtenir des réponses plus claires et adaptées à nos besoins.
