@@ -10,16 +10,5 @@
 - Comprendre la différence entre les différents notions comme le LLM \ le ML et l'hallucination \ les biais
 
 
-## Semaine 2
-### Ce que j'ai fait
--Réaliser les activités du Workshop 2 : L'art du prompt ([Portfolio Prompt.docx.pdf](https://github.com/user-attachments/files/34156259/Portfolio.Prompt.docx.pdf)
-)
--Tester différents prompts avec une IA générative
--Améliorer les prompts pour obtenir de meilleures réponses
--Répondre au QCM
 
-### Ce que j'ai appris
--J'ai appris qu'un prompt précis et bien détaillé permet d'obtenir des réponses plus claires et adaptées à nos besoins.
-### Difficultés rencontrées
--Trouver les bonnes instructions pour améliorer les prompts.
 
